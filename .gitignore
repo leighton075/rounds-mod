@@ -1,0 +1,60 @@
+# Ignore Visual Studio temporary files and build results
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+
+# Visual Studio cache/options directory
+.vs/
+.vscode/
+
+# MSTest test Results
+[Tt]est[Rr]esult*/
+[Bb]uild[Ll]og.*
+
+# NUnit
+*.VisualState.xml
+TestResult.xml
+
+# NuGet Packages
+*.nupkg
+packages/
+
+# Ignore Unity and BepInEx generated files
+[Bb]epInEx/
+[Ll]ibs/
+[Pp]lugins/
+[Ll]ogs/
+[Ee]xports/
+[Tt]emp/
+[Uu]serData/
+
+# Ignore Unity project files
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Mm]emoryCaptures/
+
+# Ignore Rider-specific files
+.idea/
+*.sln.iml
+
+# Ignore Mac OS specific files
+.DS_Store
